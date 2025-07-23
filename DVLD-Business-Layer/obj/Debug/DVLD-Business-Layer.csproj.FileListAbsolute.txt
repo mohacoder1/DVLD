@@ -1,0 +1,9 @@
+D:\C# Projects\DVLD\DVLD-Business-Layer\bin\Debug\DVLD-Business-Layer.dll
+D:\C# Projects\DVLD\DVLD-Business-Layer\bin\Debug\DVLD-Business-Layer.pdb
+D:\C# Projects\DVLD\DVLD-Business-Layer\bin\Debug\DVLD-Data-Access-Layer.dll
+D:\C# Projects\DVLD\DVLD-Business-Layer\bin\Debug\DVLD-Data-Access-Layer.pdb
+D:\C# Projects\DVLD\DVLD-Business-Layer\obj\Debug\DVLD-Business-Layer.csproj.AssemblyReference.cache
+D:\C# Projects\DVLD\DVLD-Business-Layer\obj\Debug\DVLD-Business-Layer.csproj.CoreCompileInputs.cache
+D:\C# Projects\DVLD\DVLD-Business-Layer\obj\Debug\DVLD-Bus.A1FEF969.Up2Date
+D:\C# Projects\DVLD\DVLD-Business-Layer\obj\Debug\DVLD-Business-Layer.dll
+D:\C# Projects\DVLD\DVLD-Business-Layer\obj\Debug\DVLD-Business-Layer.pdb
